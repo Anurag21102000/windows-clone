@@ -13,5 +13,3 @@ All of the assets are in `svg` format. The searching also works. Each button is 
 ## Official Wallpaper
 <img width="1680" alt="Windows 11 clone by CodeMite @najmiter" src="https://user-images.githubusercontent.com/85332859/233588697-bc365e7b-d736-4f6b-a7a8-e5268b359c3b.png">
 
-## XP Wallpaper
-<img width="1680" alt="Windows 11 clone by CodeMite @najmiter" src="https://user-images.githubusercontent.com/85332859/233588784-5ff4b577-10f1-4fa8-8a60-09d4abad3359.png">
